@@ -31,7 +31,7 @@ Publications
 
 **Are socially-aware trajectory prediction models really socially-aware?** \
   Saeed Saadatnejad, Mohammadhossein Bahari, Pedram Khorsandi, Mohammad Saneian, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi\
-  Journal of Transportation Research Part C , 2022\
+  **Journal of Transportation Research Part C , 2022**\
   [Full Version](https://arxiv.org/abs/2108.10879)
 
 
