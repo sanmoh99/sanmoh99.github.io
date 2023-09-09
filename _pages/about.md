@@ -38,6 +38,7 @@ Publications
 Awards and honors
 ======
 
+
 **Silver medal** in the International Olympiad in Informatics IOI-2017.\
 **Onsite contest finalist** at snackdown19, Ranked 23 among 25000 teams.\
 **Silver medal** in the Asia Pasific Olympiad in Informatics APIO-2017.\
