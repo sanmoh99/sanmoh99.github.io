@@ -83,7 +83,7 @@ author:
   name             : "Mohammad Saneian"
   avatar           : "profile.png"
   bio              : ""
-  location         : "Boston"
+  location         : "Boston, MA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=h3RbvqsAAAAJ&hl=en"
   email            :
@@ -96,13 +96,13 @@ author:
   facebook         :
   foursquare       :
   codeforces       : "https://codeforces.com/profile/SaSa"
-  github           : "sanmoh99"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         :  "mohammadsaneian"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
