@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I'm am currently a PhD student at Northeastern University in the Theory of Computation Group where I am fortunate to be advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/).
+I'm am currently a PhD student at Northeastern University in the CS Theory Group where I am fortunate to be advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/).
 
 I am broadly interested in **theoretical computer science**. More specifically, I am interested in designing algorithms for large scale graphs such as the **streaming model** or models with uncertainty such as the **stochastic model**. 
 
