@@ -9,7 +9,7 @@ redirect_from:
 ---
 About me
 ======
-I'm am currently a PhD student at Northeastern University in the CS Theory Group where I am fortunate to be advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/).
+I am currently a PhD student at Northeastern University in the CS Theory Group where I am fortunate to be advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/).
 
 I am broadly interested in **theoretical computer science**. More specifically, I am interested in designing algorithms for large scale graphs such as the **streaming model** or models with uncertainty such as the **stochastic model**. 
 
@@ -41,6 +41,6 @@ Awards and honors
 
 **Silver medal** in the International Olympiad in Informatics IOI-2017.\
 **Onsite contest finalist** at snackdown19, Ranked 23 among 25000 teams.\
-**Silver medal** in the Asia Pasific Olympiad in Informatics APIO-2017.\
+**Silver medal** in the Asia Pacific Olympiad in Informatics APIO-2017.\
 **Gold medal** in the Iran National Olympiad in Informatics 2016.\
-**Goldl medal** in the ACM ICPC regional contest 2018.
+**Gold medal** in the ACM ICPC regional contest 2018.
