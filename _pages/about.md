@@ -16,7 +16,7 @@ I am broadly interested in **theoretical computer science**. More specifically, 
 Publications
 ======
 
-<div style="line-height:150%;">
+<div style="line-height:100%;">
     <br>
 </div>
 
@@ -38,7 +38,7 @@ Publications
 Preprints
 ======
 
-<div style="line-height:150%;">
+<div style="line-height:100%;">
     <br>
 </div>
 
