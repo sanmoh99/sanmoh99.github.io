@@ -22,7 +22,8 @@ Publications
 
 **Streaming Edge Coloring with Asymptotically Optimal Colors**\
   Soheil Behnezhad, Mohammad Saneian\
-  [Full Version](https://arxiv.org/abs/2305.01714)
+  **(ICALP-2024)** 51st International Colloquium on Automata, Languages, and Programming.\
+  [Full Version](https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.121/LIPIcs.ICALP.2024.121.pdf)
 
 **Simple Streaming Algorithms for Edge Coloring** \
   Mohammad Ansari, Mohammad Saneian, Hamid Zarrabi-Zadeh\
@@ -33,6 +34,20 @@ Publications
   Saeed Saadatnejad, Mohammadhossein Bahari, Pedram Khorsandi, Mohammad Saneian, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi\
   **Journal of Transportation Research Part C , 2022**\
   [Full Version](https://arxiv.org/abs/2108.10879)
+
+Preprints
+======
+
+<div style="line-height:150%;">
+    <br>
+</div>
+
+**Query Efficient Weighted Stochastic Matching**\
+  Mahsa Derakhshan, Mohammad Saneian\
+  **Submitted to SODA 2024**\
+  [Full Version](https://arxiv.org/pdf/2311.08513)
+
+I have two other papers one titled A Simple Analysis of Ranking in General Graphs in submission to SOSA 2024 and one titled Query Complexity of Stochastic Minimum Vertex Cover in submission to ITCS 2025. 
 
 
 Awards and honors
