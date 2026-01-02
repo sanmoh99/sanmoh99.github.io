@@ -9,53 +9,73 @@ redirect_from:
 ---
 About me
 ======
-I am currently a PhD student at Northeastern University in the CS Theory Group where I am fortunate to be advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/).
+I recently completed my PhD at Northeastern University where I was advised by [Soheil Behnezhad](http://behnezhad.com/) and [Mahsa Derakhshan](https://www.khoury.northeastern.edu/home/derakhshan/). My thesis is on matching algorithms under uncertainty. Here is the [link](https://www.proquest.com/docview/3278145265?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) to access it.
 
-I am broadly interested in **theoretical computer science**. More specifically, I am interested in designing algorithms for large scale graphs such as the **streaming model** or models with uncertainty such as the **stochastic model**. 
+I am broadly interested in **theoretical computer science**. More specifically, I am interested in designing algorithms for large-scale graphs, such as the **streaming model**, or models with uncertainty such as the **stochastic model**.
+
+Starting in 2026, I will be joining [TextQL](https://textql.com/) as a Research Scientist.
 
 Publications
 ======
 
-<div style="line-height:100%;">
-    <br>
+<div style="font-size:90%;">
+
+<ol>
+  <li>
+    <p><strong>Improved Approximation for Ranking on General Graphs</strong><br>
+    Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu<br>
+    <strong>(SODA-2026)</strong> ACM–SIAM Symposium on Discrete Algorithms.<br>
+    <a href="https://arxiv.org/pdf/2511.06504">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>A Simple Analysis of Ranking in General Graphs</strong><br>
+    Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu<br>
+    <strong>(SOSA-2025)</strong> Symposium on Simplicity in Algorithms.<br>
+    <a href="https://arxiv.org/pdf/2511.08801">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>Query Efficient Weighted Stochastic Matching</strong><br>
+    Mahsa Derakhshan, Mohammad Saneian<br>
+    <strong>(ICALP-2025)</strong> International Colloquium on Automata, Languages, and Programming.<br>
+    <a href="https://arxiv.org/pdf/2311.08513">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>Query Complexity of Stochastic Minimum Vertex Cover</strong><br>
+    Mahsa Derakhshan, Mohammad Saneian, Zihan Xun<br>
+    <strong>(ITCS-2025)</strong> Innovations in Theoretical Computer Science.<br>
+    <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol325-itcs2025/LIPIcs.ITCS.2025.41/LIPIcs.ITCS.2025.41.pdf">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>Streaming Edge Coloring with Asymptotically Optimal Colors</strong><br>
+    Soheil Behnezhad, Mohammad Saneian<br>
+    <strong>(ICALP-2024)</strong> 51st International Colloquium on Automata, Languages, and Programming.<br>
+    <a href="https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.121/LIPIcs.ICALP.2024.121.pdf">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>Simple Streaming Algorithms for Edge Coloring</strong><br>
+    Mohammad Ansari, Mohammad Saneian, Hamid Zarrabi-Zadeh<br>
+    <strong>(ESA-2022)</strong> 30th Annual European Symposium on Algorithms.<br>
+    <a href="https://drops.dagstuhl.de/opus/volltexte/2022/16946/pdf/LIPIcs-ESA-2022-8.pdf">Full Version</a></p>
+  </li>
+
+  <li>
+    <p><strong>Are socially-aware trajectory prediction models really socially-aware?</strong><br>
+    Saeed Saadatnejad, Mohammadhossein Bahari, Pedram Khorsandi, Mohammad Saneian, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi<br>
+    <strong>Transportation Research Part C, 2022</strong><br>
+    <a href="https://arxiv.org/abs/2108.10879">Full Version</a></p>
+  </li>
+</ol>
+
 </div>
-
-**Streaming Edge Coloring with Asymptotically Optimal Colors**\
-  Soheil Behnezhad, Mohammad Saneian\
-  **(ICALP-2024)** 51st International Colloquium on Automata, Languages, and Programming.\
-  [Full Version](https://drops.dagstuhl.de/storage/00lipics/lipics-vol297-icalp2024/LIPIcs.ICALP.2024.121/LIPIcs.ICALP.2024.121.pdf)
-
-**Simple Streaming Algorithms for Edge Coloring** \
-  Mohammad Ansari, Mohammad Saneian, Hamid Zarrabi-Zadeh\
-  **(ESA-2022)** 30th Annual European Symposium on Algorithms\
-  [Full Version](https://drops.dagstuhl.de/opus/volltexte/2022/16946/pdf/LIPIcs-ESA-2022-8.pdf)
-
-**Are socially-aware trajectory prediction models really socially-aware?** \
-  Saeed Saadatnejad, Mohammadhossein Bahari, Pedram Khorsandi, Mohammad Saneian, Seyed-Mohsen Moosavi-Dezfooli, Alexandre Alahi\
-  **Journal of Transportation Research Part C , 2022**\
-  [Full Version](https://arxiv.org/abs/2108.10879)
-
-Preprints
-======
-
-<div style="line-height:100%;">
-    <br>
-</div>
-
-**Query Efficient Weighted Stochastic Matching**\
-  Mahsa Derakhshan, Mohammad Saneian\
-  **Submitted to SODA 2024**\
-  [Full Version](https://arxiv.org/pdf/2311.08513)
-
-I have two other papers one titled A Simple Analysis of Ranking in General Graphs in submission to SOSA 2024 and one titled Query Complexity of Stochastic Minimum Vertex Cover in submission to ITCS 2025. 
-
 
 Awards and honors
 ======
 
-
-**Silver medal** in the International Olympiad in Informatics IOI-2017.\
-**Onsite contest finalist** at snackdown19, Ranked 23 among 25000 teams.\
-**Silver medal** in the Asia Pacific Olympiad in Informatics APIO-2017.\
+**Silver medal** in the International Olympiad in Informatics (IOI-2017).\
+**Onsite contest finalist** at SnackDown 2019, ranked 23 among 25,000 teams.\
 **Gold medal** in the Iran National Olympiad in Informatics 2016.\
-**Gold medal** in the ACM ICPC regional contest 2018.
