@@ -78,4 +78,4 @@ Awards and honors
 
 **Silver medal** in the International Olympiad in Informatics (IOI-2017).\
 **Onsite contest finalist** at SnackDown 2019, ranked 23 among 25,000 teams.\
-**Gold medal** in the Iran National Olympiad in Informatics 2016.\
+**Gold medal** in the Iran National Olympiad in Informatics 2016.
