@@ -13,7 +13,6 @@ I recently completed my PhD at Northeastern University where I was advised by [S
 
 I am broadly interested in **theoretical computer science**. More specifically, I am interested in designing algorithms for large-scale graphs, such as the **streaming model**, or models with uncertainty such as the **stochastic model**.
 
-Starting in 2026, I will be joining [TextQL](https://textql.com/) as a Research Scientist.
 
 Publications
 ======
@@ -21,6 +20,13 @@ Publications
 <div style="font-size:90%;">
 
 <ol>
+  <li>
+  <p><strong>Half-Approximating Maximum Dicut in the Streaming Setting</strong><br>
+  Amir Azarmehr, Soheil Behnezhad, Shane Ferrante, Mohammad Saneian<br>
+  <strong>(STOC-2026)</strong> ACM Symposium on Theory of Computing.<br>
+  <a href="https://arxiv.org/pdf/2512.22729">Full Version</a></p>
+</li>
+  
   <li>
     <p><strong>Improved Approximation for Ranking on General Graphs</strong><br>
     Mahsa Derakhshan, Mohammad Roghani, Mohammad Saneian, Tao Yu<br>
